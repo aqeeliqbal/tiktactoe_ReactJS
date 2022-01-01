@@ -1,0 +1,14 @@
+.clear{
+    padding: 10px;
+    font-size: large;
+    border: 5px dashed green;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.clear:hover{
+    border:  2px solid yellow;
+    cursor: pointer;
+}

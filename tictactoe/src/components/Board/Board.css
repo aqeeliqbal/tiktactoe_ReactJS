@@ -1,0 +1,20 @@
+.boardBtn {
+    height: 100px;
+    width: 100px;
+    font-size: 40px;
+    border-radius: 10px;
+    background-color: orangered;
+    color: blue;
+    border: 3px solid white;
+    margin: 10px;
+}
+.boardBtn:hover {
+    border-color: darkgreen;
+    color: darkgreen;
+}
+.board {
+    margin-top: 100px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
